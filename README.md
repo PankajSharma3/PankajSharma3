@@ -26,7 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsharma3&show_icons=true&locale=en" alt="pankajsharma3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsharma3&" alt="pankajsharma3" /></p>
-<img src="https://raw.githubusercontent.com/PankajSharma3/PankajSharma3/output/snake.svg" alt="Snake animation" />
 
 ###
 
