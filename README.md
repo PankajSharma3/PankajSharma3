@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=header&text=Pankaj%20Sharma&fontSize=42&fontColor=e6edf3&fontAlignY=65&desc=Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=85&descSize=14&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=header&text=Pankaj%20Sharma&fontSize=42&fontColor=e6edf3&fontAlignY=55&desc=Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=85&descSize=14&descColor=8b949e" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Hi+there%2C+I'm+Pankaj+Sharma+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;DSA+Enthusiast+%7C+Competitive+Programmer;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
