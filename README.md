@@ -1,31 +1,118 @@
-<h1 align="center">Hi 👋, I'm Pankaj</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsharma3&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsharma3" /> </p>
+```
+██████╗  █████╗ ███╗   ██╗██╗  ██╗ █████╗      ██╗
+██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝██╔══██╗     ██║
+██████╔╝███████║██╔██╗ ██║█████╔╝ ███████║     ██║
+██╔═══╝ ██╔══██║██║╚██╗██║██╔═██╗ ██╔══██║██   ██║
+██║     ██║  ██║██║ ╚████║██║  ██╗██║  ██║╚█████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajsharma3" alt="pankajsharma3" /></a> </p>
+# Hey there, I'm Pankaj Sharma 👋
 
-<p align="left"> <a href="https://twitter.com/pankaj0296" target="blank"><img src="https://img.shields.io/twitter/follow/pankaj0296?logo=twitter&style=for-the-badge" alt="pankaj0296" /></a> </p>
+**`Software Developer · DSA Enthusiast · Problem Solver`**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pankaj0296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankaj0296" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pankajsharma2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankajsharma2005" height="30" width="40" /></a>
-<a href="https://instagram.com/pankajsharma_729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajsharma_729" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ps90798173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ps90798173" height="30" width="40" /></a>
-<a href="https://leetcode.com/_Pankaj_Sharma_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pankaj53" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ps9079r95f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ps9079r95f" height="30" width="40" /></a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=pankajsharma3&label=Profile%20views&color=58a6ff&style=flat-square)](https://github.com/pankajsharma3)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pankaj0296?logo=twitter&style=flat-square&color=1DA1F2)](https://twitter.com/pankaj0296)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pankajsharma2005)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajsharma3&show_icons=true&locale=en&layout=compact" alt="pankajsharma3" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsharma3&show_icons=true&locale=en" alt="pankajsharma3" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsharma3&" alt="pankajsharma3" /></p>
+```java
+class PankajSharma extends Developer {
 
-###
+    String location    = "India 🇮🇳";
+    String[] passion   = {"Clean Code", "Problem Solving", "DSA"};
+    String current     = "Building scalable web apps & sharpening DSA skills";
+    String learning    = "Advanced DSA · System Design · Full-Stack Development";
+    String funFact     = "I debug code faster than I debug my life 😄";
 
-###
+    String[] askMeAbout() {
+        return new String[]{"Java", "Python", "C/C++", "MySQL", "Data Structures"};
+    }
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pankajsharma3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharma3&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsharma3&theme=github-dark-blue&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pankajsharma3&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-_Pankaj__Sharma_-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/_Pankaj_Sharma_/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ps90798173-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ps90798173)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-ps9079r95f-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ps9079r95f)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pankaj0296)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankajsharma2005)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pankajsharma_729)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+$ echo "Thanks for stopping by — drop a ⭐ if you like my work!"
+```
+
+</div>
