@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:0d1117&height=220&section=header&text=Pankaj%20Sharma&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=16&descColor=8b949e&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=header&text=Pankaj%20Sharma&fontSize=42&fontColor=e6edf3&fontAlignY=55&desc=Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=85&descSize=14&descColor=8b949e" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+there%2C+I'm+Pankaj+Sharma+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Solving+problems+one+commit+at+a+time;DSA+Enthusiast+%7C+Competitive+Programmer;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -95,34 +95,60 @@ public class PankajSharma extends SoftwareDeveloper {
 
 ## 🚀 Featured Projects
 
-> ✏️ Replace the names and links below with your real repos.
+> ✏️ Replace `REPO-1`, `REPO-2`, etc. with your real repo names and edit the one-line descriptions.
+
+### 📌 Featured Projects · Section 1
+
+<div align="center">
+
+<a href="https://github.com/pankajsharma3/REPO-1"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=pankajsharma3&repo=REPO-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" /></a>
+<a href="https://github.com/pankajsharma3/REPO-2"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=pankajsharma3&repo=REPO-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" /></a>
+
+</div>
+
+### 📌 Featured Projects · Section 2
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>📁 Project One</h3>
-      <p>One line on what it does and why it matters.</p>
-      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white" /></p>
-      <a href="https://github.com/pankajsharma3/REPO-NAME">View Repo →</a>
+    <td width="50%" valign="top">
+      <h3>🧩 Project Three</h3>
+      <p>One line on what it does and the problem it solves.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/pankajsharma3/REPO-3">View Repo →</a>
     </td>
-    <td width="50%">
-      <h3>📁 Project Two</h3>
-      <p>One line on what it does and why it matters.</p>
-      <p><img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></p>
-      <a href="https://github.com/pankajsharma3/REPO-NAME">View Repo →</a>
+    <td width="50%" valign="top">
+      <h3>🌐 Project Four</h3>
+      <p>One line on what it does and the problem it solves.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <a href="https://github.com/pankajsharma3/REPO-4">View Repo →</a>
     </td>
   </tr>
 </table>
 
-<div align="center">
-
-[![Pin 1](https://github-readme-stats.vercel.app/api/pin/?username=pankajsharma3&repo=REPO-NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3)](https://github.com/pankajsharma3/REPO-NAME)
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
+
+### 📈 Overview
+
+<div align="center">
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pankajsharma3&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=1f6feb&logo=github)
+![Followers](https://img.shields.io/github/followers/pankajsharma3?label=Followers&style=for-the-badge&color=1f6feb&logo=github)
+![Following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pankajsharma3&query=$.following&label=Following&style=for-the-badge&color=1f6feb&logo=github)
+![Stars](https://img.shields.io/github/stars/pankajsharma3?label=Stars%20Earned&style=for-the-badge&color=1f6feb&logo=github)
+![Joined](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pankajsharma3&query=$.created_at&label=Joined%20GitHub&style=for-the-badge&color=1f6feb&logo=github)
+
+</div>
+
+### 🏅 Stats Cards
 
 <div align="center">
 
