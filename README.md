@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=header&text=Pankaj%20Sharma&fontSize=42&fontColor=e6edf3&fontAlignY=55&desc=Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=85&descSize=14&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:0d1117&height=220&section=header&text=Pankaj%20Sharma&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=16&descColor=8b949e&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Hi+there%2C+I'm+Pankaj+Sharma+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;DSA+Enthusiast+%7C+Competitive+Programmer;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+there%2C+I'm+Pankaj+Sharma+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Solving+problems+one+commit+at+a+time;DSA+Enthusiast+%7C+Competitive+Programmer;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=pankajsharma3&label=Profile+Views&color=1f6feb&style=flat-square)](https://github.com/pankajsharma3)
-[![GitHub Followers](https://img.shields.io/github/followers/pankajsharma3?label=Followers&style=flat-square&color=1f6feb&logo=github)](https://github.com/pankajsharma3?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/pankaj0296?label=Twitter&style=flat-square&color=1da1f2&logo=twitter&logoColor=white)](https://twitter.com/pankaj0296)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankajsharma2005)
+![Profile Views](https://komarev.com/ghpvc/?username=pankajsharma3&label=Profile+Views&color=1f6feb&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/pankajsharma3?label=Followers&style=for-the-badge&color=1f6feb&logo=github)
+![Stars](https://img.shields.io/github/stars/pankajsharma3?label=Total%20Stars&style=for-the-badge&color=1f6feb&logo=github)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pankajsharma3&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=1f6feb&logo=github)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankajsharma2005)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pankaj0296)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pankajsharma_729)
 
 </div>
 
@@ -18,22 +22,15 @@
 ## 🧑‍💻 About Me
 
 ```java
-/**
- * @author  Pankaj Sharma
- * @version 2025
- * @since   India 🇮🇳
- */
 public class PankajSharma extends SoftwareDeveloper {
 
-    private final String name       = "Pankaj Sharma";
-    private final String location   = "India 🇮🇳";
-    private final String role       = "Full-Stack Developer & DSA Enthusiast";
-
-    private final String[] currentWork  = { "Scalable Web Applications", "DSA Mastery" };
-    private final String[] learning     = { "System Design", "Advanced DSA", "Full-Stack Development" };
-    private final String[] askMeAbout   = { "Java", "Python", "C/C++", "MySQL", "Data Structures" };
-
-    private final String funFact = "I debug code faster than I debug my life 😄";
+    private final String   name        = "Pankaj Sharma";
+    private final String   location    = "India 🇮🇳";
+    private final String   role        = "Full-Stack Developer & DSA Enthusiast";
+    private final String[] building    = { "Scalable Web Applications", "Clean, readable code" };
+    private final String[] learning    = { "System Design", "Advanced DSA", "Full-Stack Development" };
+    private final String[] askMeAbout  = { "Java", "Python", "C/C++", "MySQL", "Data Structures" };
+    private final String   funFact     = "I debug code faster than I debug my life 😄";
 
     public String greet() {
         return "Welcome to my GitHub! Let's build something incredible together. 🚀";
@@ -41,27 +38,25 @@ public class PankajSharma extends SoftwareDeveloper {
 }
 ```
 
-<br/>
-
 <table>
   <tr>
-    <td>🔭 Currently working on</td>
+    <td>🔭 <b>Working on</b></td>
     <td>Scalable web apps & competitive programming</td>
   </tr>
   <tr>
-    <td>🌱 Currently learning</td>
+    <td>🌱 <b>Learning</b></td>
     <td>System Design · Advanced DSA · Full-Stack Dev</td>
   </tr>
   <tr>
-    <td>💬 Ask me about</td>
+    <td>💬 <b>Ask me about</b></td>
     <td>Java · Python · C/C++ · MySQL · Data Structures</td>
   </tr>
   <tr>
-    <td>⚡ Fun fact</td>
+    <td>⚡ <b>Fun fact</b></td>
     <td>I debug code faster than I debug my life 😄</td>
   </tr>
   <tr>
-    <td>📫 Reach me at</td>
+    <td>📫 <b>Reach me</b></td>
     <td><a href="https://linkedin.com/in/pankajsharma2005">LinkedIn</a> · <a href="https://twitter.com/pankaj0296">Twitter</a></td>
   </tr>
 </table>
@@ -72,22 +67,22 @@ public class PankajSharma extends SoftwareDeveloper {
 
 <div align="center">
 
-### Languages
+**Languages**<br/>
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Web Technologies
+**Web**<br/>
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Databases
+**Databases**<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Tools & Environment
+**Tools**<br/>
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -98,34 +93,57 @@ public class PankajSharma extends SoftwareDeveloper {
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+> ✏️ Replace the names and links below with your real repos.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📁 Project One</h3>
+      <p>One line on what it does and why it matters.</p>
+      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white" /></p>
+      <a href="https://github.com/pankajsharma3/REPO-NAME">View Repo →</a>
+    </td>
+    <td width="50%">
+      <h3>📁 Project Two</h3>
+      <p>One line on what it does and why it matters.</p>
+      <p><img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></p>
+      <a href="https://github.com/pankajsharma3/REPO-NAME">View Repo →</a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pankajsharma3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharma3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsharma3&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajsharma3&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+[![Pin 1](https://github-readme-stats.vercel.app/api/pin/?username=pankajsharma3&repo=REPO-NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3)](https://github.com/pankajsharma3/REPO-NAME)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pankajsharma3&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pankajsharma3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharma3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" />
+
+<img src="https://streak-stats.demolab.com/?user=pankajsharma3&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajsharma3&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankajsharma3/pankajsharma3/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankajsharma3/pankajsharma3/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/pankajsharma3/pankajsharma3/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -135,11 +153,15 @@ public class PankajSharma extends SoftwareDeveloper {
 
 <div align="center">
 
+<a href="https://leetcode.com/_Pankaj_Sharma_/">
+  <img src="https://leetcard.jacoblin.cool/_Pankaj_Sharma_?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
+</a>
+
 | Platform | Profile | Status |
 |:--------:|:-------:|:------:|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [@_Pankaj_Sharma_](https://leetcode.com/_Pankaj_Sharma_/) | Active Solver |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [@_Pankaj_Sharma_](https://leetcode.com/_Pankaj_Sharma_/) | 🔥 Active Solver |
 | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | [@ps90798173](https://www.hackerrank.com/ps90798173) | ⭐⭐⭐⭐⭐ |
-| ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) | [@ps9079r95f](https://auth.geeksforgeeks.org/user/ps9079r95f) | Regular Contributor |
+| ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) | [@ps9079r95f](https://auth.geeksforgeeks.org/user/ps9079r95f) | 📚 Regular Contributor |
 
 </div>
 
@@ -147,12 +169,22 @@ public class PankajSharma extends SoftwareDeveloper {
 
 ## 🎯 Currently Focused On
 
+```text
+📌 Advanced DSA        ████████████░░░░░░░░  60%   Graphs · DP · Trees · Backtracking
+📌 System Design       ██████░░░░░░░░░░░░░░  30%   Scalability · Caching · APIs
+📌 Full-Stack Dev      ████████░░░░░░░░░░░░  40%   HTML/CSS/JS · MySQL Backend
+📌 Competitive Coding  ██████████████░░░░░░  70%   Daily Problem Solving Streak
 ```
-📌  Advanced DSA          ████████████░░░░░░░░  60%  Graphs · DP · Trees · Backtracking
-📌  System Design         ██████░░░░░░░░░░░░░░  30%  Scalability · Caching · APIs
-📌  Full-Stack Dev        ████████░░░░░░░░░░░░  40%  HTML/CSS/JS · MySQL Backend
-📌  Competitive Coding    ██████████████░░░░░░  70%  Daily Problem Solving Streak
-```
+
+---
+
+## 💡 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
+
+</div>
 
 ---
 
@@ -167,18 +199,14 @@ public class PankajSharma extends SoftwareDeveloper {
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ps90798173)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ps9079r95f)
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=80&section=footer" />
+<br/>
 
 ```bash
 $ echo "Thanks for visiting! If you found my profile interesting, drop a ⭐"
 ```
 
 **Made with ❤️ by Pankaj Sharma — India 🇮🇳**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" />
 
 </div>
